@@ -15,7 +15,7 @@ npm run dev
 
 For Example:
 
-- create a new file name user.js in mock folder
+- create a new file user.js in mock folder
 
 ```javascript
 import Mock from 'mockjs'
